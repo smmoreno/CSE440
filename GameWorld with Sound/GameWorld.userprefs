@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ObstacleCollision.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SpriteMove.cs" Line="14" Column="1" />
+      <File FileName="Assets\ObstacleCollision.cs" Line="10" Column="44" />
+      <File FileName="Assets\ObstacleCollision2.cs" Line="8" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
